@@ -1,0 +1,54 @@
+body{
+   font-family: arial, helvetica;
+   margin:0;
+   padding:0;
+   background-color: #FFF;
+   background: url(ima/Fondo3.jpg);
+ 
+  
+ font-family: sans-serif;
+  background-size: cover;
+   background-position: center; 
+}
+
+.menu{
+   list-style: none;
+   padding: 0;
+   background: #092327;
+   width: 90%;
+   max-width: 1000px;
+   margin: auto;
+
+}
+.menu li a{
+  text-decoration: none;
+  color: white;
+  padding: 20px;
+  display: block;
+}
+
+.menu li{
+  display: inline-block;
+   text-aling: center;
+}
+
+.menu li a:hover{
+   background: #ef8354;
+}
+
+h2{ font-family: Tahoma, Geneva, sans-serif;
+font-size:36px;
+text-align:center;
+color:#FFF;
+	}
+	
+p{font-family:Tahoma, Geneva, sans-serif;
+font-size:24px;
+text-align:justify;
+	}
+
+h5{font-family:Tahoma, Geneva, sans-serif;
+font-size:14px;
+text-align:justify;
+color:#FFF;
+	}
